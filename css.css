@@ -23,6 +23,7 @@ header{
 .top2{
   margin-left: 140px;
   margin-top: 0px;
+
 }
 .font3 {
 	font-family: Consolas,monaco,monospace;
@@ -46,4 +47,6 @@ header{
 .flexbox
 {display: flex;
   align-items: center;}
-  
+  a:link{
+    text-decoration: none;
+  }
