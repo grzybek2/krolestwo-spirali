@@ -1,0 +1,72 @@
+body{
+  background-color: #2E5EAA;
+}
+
+.ballsy{
+  font-family: Consolas,monaco,monospace;
+  color:#41D3BD;
+
+}
+
+.font{
+  font-family: Consolas,monaco,monospace;
+  color:#41D3BD;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+a:link{
+  text-decoration: none;
+}
+.nazwa{
+  font-family: Consolas,monaco,monospace;
+  color: #41D3BD;
+  font-size: 160px;
+  margin-left: 100px;
+}
+.not{
+  font-family: Consolas,monaco,monospace;
+  color:white;
+}
+.zdj{
+  max-width: 400px;
+  max-height: 700px;
+
+}
+.zdj2{
+  max-width: 950px;
+  max-height: 700px;
+
+}
+.cover{
+  margin-left: 250px;
+  max-width: 300px;
+  max-height: 300px;
+}
+.cover2{
+  margin-left: 45px;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.font2{
+  font-family: Consolas,monaco,monospace;
+  color: #41D3BD;
+  font-size: 25px;
+  margin-left: 120px;
+}
+.font3{
+  font-family: Consolas,monaco,monospace;
+  color:#41D3BD;
+  font-size: 20px;
+  margin-left: 15px;
+}
+.flexblock{
+  display: flex;
+    align-items: center;
+}
+form{
+  font-size: 20px;
+  font-family: Consolas,monaco,monospace;
+  color: #41D3BD;
+}

@@ -43,10 +43,45 @@ header{
   font-family: Consolas,monaco,monospace;
   list-style: none;
   margin-left: 30px;
+  font-size: 20px;
+
 }
 .flexbox
 {display: flex;
-  align-items: center;}
+  align-items: center;
+}
   a:link{
     text-decoration: none;
+  }
+
+.kolejnykolor{
+color: #DE6449;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #E4DFDA;
+  color: black;
+  text-align: center;
+}
+.flexblock
+{display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.kolorkolejny{color:#731DD8;
+  font-family: Consolas,monaco,monospace;
+  font-size: 20px;}
+  .button {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
   }

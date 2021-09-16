@@ -1,0 +1,61 @@
+body{
+  background-color: #edddd4;
+
+}
+.mail{
+  margin-left: 400px;
+  margin-top: 800px;
+}
+.ballsy{
+  font-family: Consolas,monaco,monospace;
+  color:#c44536;
+
+}
+
+.font{
+  font-family: Consolas,monaco,monospace;
+  color:#c44536;
+  font-size: 30px;
+  margin-left: 20px;
+}
+
+a:link{
+  text-decoration: none;
+}
+.nazwa{
+  font-family: Consolas,monaco,monospace;
+  color: #41D3BD;
+  font-size: 160px;
+  margin-left: 100px;
+}
+
+
+.font2{
+  font-family: Consolas,monaco,monospace;
+  color:#240488;
+  font-size: 25px;
+  margin-left: 120px;
+}
+.font3{
+  font-family: Consolas,monaco,monospace;
+  color:#240488;
+  font-size: 20px;
+  margin-left: 15px;
+}
+.flexblock{
+  display: flex;
+    align-items: center;
+}
+form{
+  font-size: 20px;
+  font-family: Consolas,monaco,monospace;
+  color: #197278;
+}
+.strz{
+  margin-top: 600px;
+  margin-left: 300px;
+}
+.mysz{
+  margin-left:  400px;
+  max-width: 900px;
+}

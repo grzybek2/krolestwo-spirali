@@ -1,0 +1,37 @@
+body{
+  background-color: #F3F7F0;
+}
+
+.ballsy{
+  font-family: Consolas,monaco,monospace;
+  color:#A93F55;
+
+}
+
+.font{
+  font-family: Consolas,monaco,monospace;
+  color:#A93F55;
+  font-size: 140px;
+  margin-left: 110px;
+}
+.giffy{
+  margin-left: 210px;
+
+}
+a:link{
+  text-decoration: none;
+}
+}
+.flexblock{
+  display: flex;
+    align-items: center;
+}
+li{
+  
+  font-size: 26px;
+  margin-top:  50px;
+  margin-left: 40px;
+  list-style:none;
+}
+
+}
